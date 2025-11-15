@@ -1,0 +1,26 @@
+# Installation command for all required packages
+# Run this in your terminal: pip install -r install_requirements.txt
+
+# Core ML packages
+torch
+torchvision
+torchaudio
+
+# Model and augmentation libraries
+efficientnet_pytorch
+mediapipe
+albumentations==1.1.0
+timm
+
+# Data science and visualization
+numpy
+matplotlib
+pandas
+seaborn
+scikit-learn
+
+# Utilities
+opencv-python
+tqdm
+ipywidgets
+

@@ -1,0 +1,11 @@
+flask==3.0.0
+flask-cors==4.0.0
+torch
+torchvision
+efficientnet-pytorch
+mediapipe
+albumentations==1.1.0
+opencv-python
+numpy
+Pillow
+
